@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "chai": "~3.3.0",
-    "mocha": "~2.3.3"
+    "mocha": "~2.3.3",
+    "fullpage.js": "~2.7.4"
   }
 }
