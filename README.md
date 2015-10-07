@@ -6,7 +6,8 @@ The Headless, or Decoupled Drupal concept has been around for a bit now, but wha
 
 ## Installation
 
- - npm install
- - bower install
- - gulp
- - gulp serve
+ - $ npm install
+ - $ bower install
+ - $ gulp
+ - if errors, may need to update the global by $ npm install -g gulp
+ - $ gulp serve
