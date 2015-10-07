@@ -1,0 +1,12 @@
+{
+  "name": "drupal8-client-dev",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "angular": "~1.4.7"
+  },
+  "devDependencies": {
+    "chai": "~3.3.0",
+    "mocha": "~2.3.3"
+  }
+}
